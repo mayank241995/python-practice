@@ -1,0 +1,6 @@
+print('find the area of cubiod')
+l = int(input('length of cubiod'))
+b = int(input('breath of cubiod'))
+h = int(input('height of cubiod'))
+total = 2 * ( (l * b) + (b * h) + (l * h) )
+print('total',total)
