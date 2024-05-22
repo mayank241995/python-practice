@@ -1,2 +1,2 @@
 # python-practice
-pyhtin practice 
+python practice 
